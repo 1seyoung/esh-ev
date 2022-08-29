@@ -1,1 +1,3 @@
-# esh-ev
+# evsim
+Discrete Event Simulation Engine using Python
+
